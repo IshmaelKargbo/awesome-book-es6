@@ -1,4 +1,4 @@
-import {DateTime} from './modules/luxon.js'
+import { DateTime } from './modules/luxon.js';
 import AwesomeBooks from './modules/awsome-book.js';
 
 const awesome = new AwesomeBooks();
@@ -54,7 +54,7 @@ const renderBooks = () => {
   });
 
   shelf.appendChild(books);
-}
+};
 
 renderBooks();
 
