@@ -31,8 +31,8 @@ To get a local copy up and running follow these simple example steps.
 👤 **Ishmael Kargbo**
 
 - GitHub: [@githubhandle](https://github.com/ishmaelkargbo)
-- Twitter: [@twitterhandle](https://twitter.com/ishoKargbo)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ishmael-kargbo-9a986a214)
+- Twitter: [@twitterhandle](https://twitter.com/ishodev)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ishmael-kargbo-503660169)
 
 ## 🤝 Contributing
 
